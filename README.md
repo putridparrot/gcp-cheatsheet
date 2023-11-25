@@ -13,5 +13,5 @@ A list of useful commands, params etc. for the GCP CLI
 | Command | Description |
 |---------|-------------|
 | gcloud config list | Lists the active configuration |
-| gcloud config list <section>| Lists the section in the active configuration |
+| gcloud config list &lt;section&gt;| Lists the section in the active configuration |
 |                             | Example: gcloud config list project |
